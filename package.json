@@ -1,0 +1,24 @@
+{
+  "name": "node-relevant",
+  "version": "1.0.0",
+  "description": "node content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xueguiyouheng/node-relevant.git"
+  },
+  "keywords": [
+    "node",
+    "=>",
+    "sql\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C.sql"
+  ],
+  "author": "fjl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xueguiyouheng/node-relevant/issues"
+  },
+  "homepage": "https://github.com/xueguiyouheng/node-relevant#readme"
+}
